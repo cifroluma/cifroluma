@@ -1,6 +1,7 @@
 # Hi, I'm Arsen
 
-Python & ML.
-Building local LLM tools, experimenting with RAG and model fine-tuning.
+11th grade · learning ML from scratch.
+First research project (in silico drug discovery) posted as a preprint on ChemRxiv.
+Now building small local-LLM tools and picking up SQL / collaborative Git.
 
-[takhmazyanlab.ru](https://takhmazyanlab.ru)
+[ORCID](https://orcid.org/0009-0005-1376-4573) · [тахмазянлаб.рф](https://тахмазянлаб.рф)
